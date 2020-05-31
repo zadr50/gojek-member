@@ -1,0 +1,8 @@
+app/build
+app/libs
+doc
+captures
+.gradle
+.idea
+Member.zip
+keystore.jks

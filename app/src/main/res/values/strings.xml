@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">Ojek Pangkalan</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="google_app_id">217244230215</string>
+    <string name="legal">Legal Notices</string>
+    <string name="no_maps">Google Maps V2 not available!</string>
+    <string name="icon">Gojek logo</string>
+    <string name="normal">Normal</string>
+    <string name="hybrid">Hybrid</string>
+    <string name="satellite">Satellite</string>
+    <string name="terrain">Terrain</string>
+    <string name="un">UN</string>
+    <string name="united_nations">United Nations</string>
+    <string name="lincoln_center">Lincoln Center</string>
+    <string name="lincoln_center_snippet">Home of Jazz at Lincoln Center</string>
+    <string name="carnegie_hall">Carnegie Hall</string>
+    <string name="practice_x3">Where you go with practice, practice, practice</string>
+    <string name="downtown_club">The Downtown Club</string>
+    <string name="heisman_trophy">Original home of the Heisman Trophy</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_nama">Nama anda</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_main">Main Menu</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="no_internet">Error connection ! Periksa Internet atau GPS aktif.</string>
+    <string name="setting">setting_gojek</string>
+    <string name="banner_ad_unit_id">ca-app-pub-1869511402643723/5784086295</string>
+    <string name="title_activity_foods">Foods</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_xxxx">xxxx</string>
+    <string name="url_source">http://ojek.maxonerp.com/api/</string>
+    <string name="url_source_images">http://ojek.maxonerp.com/tmp/</string>
+    <string name="url_sourcexx">http://192.168.100.231/talagasoft/gojek/api/</string>
+    <string name="bike">Bike</string>
+    <string name="food">Food</string>
+    <string name="report">Report</string>
+    <string name="point_anda">Point Anda</string>
+    <string name="balance">Balance</string>
+    <string name="_0">0</string>
+    <string name="driver_accepted">Driver Accepted</string>
+    <string name="profil">Profil</string>
+    <string name="car">Car</string>
+    <string name="paket">Paket</string>
+
+    <string name="title_activity_waiting_driver">WaitingDriver</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+</resources>

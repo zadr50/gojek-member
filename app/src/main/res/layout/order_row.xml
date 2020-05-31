@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:text="tanggal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/tanggal"
+                android:layout_weight="1" />
+
+            <TextView
+                android:text="km"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/km"
+                android:layout_weight="1" />
+
+            <TextView
+                android:text="amount"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/amount"
+                android:layout_weight="1" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:text="Jenis"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/jenis"
+                android:layout_weight="1" />
+
+            <TextView
+                android:text="Tujuan"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/tujuan"
+                android:layout_weight="1" />
+        </LinearLayout>
+
+    </LinearLayout>
+</LinearLayout>

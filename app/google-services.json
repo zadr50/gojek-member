@@ -1,0 +1,20 @@
+{
+  "project_info": 
+	{
+	  "google_app_id":"114763638972682487724",
+	  "name": "com.talagasoft.gojek",
+	  "package_name": "com.talagasoft.gojek",
+	  "type": "service_account",
+	  "project_id": "api-project-217244230215",
+	  "private_key_id": "8ab6412f7eaf850da86309e9c973794ad537d766",
+	  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCKYLau/AZIttvq\n+AGpWEsKds0e+JuSlH5HqaoYcfiioccIAynZ+7kC5/ubXt7dnkUU2mtAQx2kGh8n\nrOnBWl/BjHzKq7Y1ENiQ/Q8dnt6JLNm3vVKoKuXXF7WiZfcilQGJOJ0Z+lAkke71\n7ZZdiMP0fJ2rnm/PflDzsAY27FvfHIddorqmTwVVw1moLJ7B2eL6zCCcWSlepHA6\ns2nTdYWDpwF+DvyK83VfMmYsGjs6lTJhp3VjlQw1m8jQxQXv6BbJVQfAGMCIbyY+\nCKJv6P0GyKlqElJmOJm6AyFb9N428T2HyqVceTH80I32d/dCIMLNaUjmuQ5qoACG\n6ZgUN0BNAgMBAAECggEATnhBoEEynxFy7G/vIUT8aNatwx5fumOSqLjByFL5F+B9\nqUGB/icM52T9/UFzSGFz8ztZDnwA1wopGKqpdAf3vR4ZtiRhkv4WkUGvzLBGqatR\nWyx1LwAEjlDXo1wHJQkycco07IJR6CsJQ1STrD7eQEpabvPNm/CZn1b2bzbhckcv\n6fj+iQasAP4iKkql58goF6Nim0+1NlKmF4JqHkaolt6P83+elJII18brDAM5ASUB\nEN1IbT9Behqb8EH8NDqiPMdJwJ+pxW158HoryDQNhtcUjjNrVqg3c5wEeoVG9ZQM\nS5hDezO1IK4tkPgUojEwURdJAWdStl1K0V/oLvhoUQKBgQD+/+SRnEV4C1RFpwKQ\nrHrhMRW84gWF6TaudtCCvXRSsl4J4M6khsXjq4Wc7xeZ5uicl8kTWKLq3I/OfhPD\nAwRGoCUCrEBYVso8aVUQ4He5TXXXS8XK3fahmgyXO/U/hfb4DDWzFEEKkCN5EM8i\nLky9YXUZVKlFVgg6/saJrLjJpwKBgQCK67FDAh8CUB9tOFIk4Y5mYylo/+IrXcnr\nr9LpEKdoyM3r1a8YQZAlYFrLej8FQtM6PifxKn8vh08AZIGeQAbmPD5+3WPIrc4/\ngkm7z6Sx8htxOzPp20eTXNwrkkBAFJAfS8XHFPKiVpU7elrKJo1UPJeQXIXaA6W7\nrUKmQnU86wKBgGiudA6ysHIPdJEDdrIdnHRFyj64KrxGeQQ2EnMZg19PiftUJoC0\nMxi7mSZLoMy1VliylwEyKe9wjDig2Uv9OQwlQgxO2jtppawXMayz+XJAslen65LU\nfCLrMrADFTL2s+QwXvsdHXZQpb9VfzLw/t/f2kqDztl/7/EIFkj+dv2RAoGADPKC\nhtg/w5tsEmXZYg6Tkv9S8LJIhforw4eThJ1EvQNaDczQkNYrdRBR5fzyuq7LuPXq\nCxQG3osh1cuIOROGkRa0TGad0ipAurKN5K8pjlweKqN15ynEtftFmdn7mv1PoVsS\nh8dwBalEJ1Lz+zs0mNE83vuAjh0g6SjwuUYgXxkCgYEAlZIZQTMy+egMnpLBvzZX\nAVNrD2UpEz7b1PhpG/EmJEQKoXNZLVcCnLe7pJAu8A3pk0FIKeo5KjWDKMu8DD5l\n+DAnRwfp+ES+yUP+lSLpSa88ahvvuwP3D9Hc1uQWLpOMY2JeWF3F3aRtUs2yMaJP\n8K12Q6d1NQPswru8466LZ+8=\n-----END PRIVATE KEY-----\n",
+	  "client_email": "com-talagasoft-gojek@api-project-217244230215.iam.gserviceaccount.com",
+	  "project_number" : "217244230215",
+	  "client_id": "114763638972682487724",
+	  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+	  "token_uri": "https://accounts.google.com/o/oauth2/token",
+	  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+	  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/com-talagasoft-gojek%40api-project-217244230215.iam.gserviceaccount.com"
+	}
+
+}
